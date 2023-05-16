@@ -3,4 +3,4 @@ services:
   go:
     build: .
     volumes:
-      - .:/go/code
+      - ./code/:/go/code
