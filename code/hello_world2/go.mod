@@ -1,4 +1,4 @@
-module example2/hello
+module hello_world2/hello
 
 go 1.20
 
